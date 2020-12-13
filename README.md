@@ -13,9 +13,10 @@ https://leetcode.com/problems/delete-node-in-a-bst/
 
 # Traversal
 https://leetcode.com/problems/binary-tree-postorder-traversal/
-https://leetcode.com/problems/n-ary-tree-postorder-traversal/
 https://leetcode.com/problems/binary-tree-inorder-traversal/
 https://leetcode.com/problems/binary-tree-preorder-traversal/
+https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+
 
 # BST Reconstruction
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
@@ -58,3 +59,10 @@ https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-tr
 https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal
 (Extra) https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
 https://leetcode.com/problems/middle-of-the-linked-list/
+https://leetcode.com/problems/serialize-and-deserialize-bst/
+https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/
+
+# Random
+https://leetcode.com/problems/unique-binary-search-trees/
+https://leetcode.com/problems/unique-binary-search-trees-ii/
