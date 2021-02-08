@@ -169,6 +169,11 @@ https://leetcode.com/problems/maximum-binary-tree-ii/
 # Quad Tree
 https://leetcode.com/problems/construct-quad-tree/
 
+# Flatten
+https://leetcode.com/problems/flatten-nested-list-iterator/
+
+# Print binary tree
+https://leetcode.com/problems/print-binary-tree/
 # Random
 https://leetcode.com/problems/unique-binary-search-trees/
 
