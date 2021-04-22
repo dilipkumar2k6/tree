@@ -65,6 +65,16 @@ https://leetcode.com/problems/maximum-width-of-binary-tree/
 
 https://leetcode.com/problems/find-bottom-left-tree-value/
 
+https://leetcode.com/problems/find-largest-value-in-each-tree-row/
+
+https://leetcode.com/problems/univalued-binary-tree/
+
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+
+https://leetcode.com/problems/add-one-row-to-tree/
+
+https://leetcode.com/problems/check-completeness-of-a-binary-tree/
+
 # DFS
 ## Top-down
 https://leetcode.com/problems/path-sum/
@@ -78,10 +88,19 @@ https://leetcode.com/problems/path-sum-iv
 https://leetcode.com/problems/invert-binary-tree/
 
 https://leetcode.com/problems/find-leaves-of-binary-tree/
+
+https://leetcode.com/problems/binary-tree-paths/
+
+https://leetcode.com/problems/largest-bst-subtree/
+
+https://leetcode.com/problems/binary-tree-maximum-path-sum/
+
 ## Bottom-up
 https://leetcode.com/problems/diameter-of-binary-tree/
 
 https://leetcode.com/problems/count-univalue-subtrees/
+
+https://leetcode.com/problems/longest-univalue-path/
 
 (Extra) https://leetcode.com/problems/validate-binary-search-tree/
 ## Boundary Walk DFS
@@ -123,6 +142,10 @@ https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/
 https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/
 
 https://leetcode.com/problems/binary-tree-upside-down/
+
+https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
+https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
 
 # Lowest Common Ancestor of a Binary Tree
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
@@ -172,9 +195,13 @@ https://leetcode.com/problems/construct-quad-tree/
 # Flatten
 https://leetcode.com/problems/flatten-nested-list-iterator/
 
+https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+
 # Print binary tree
 https://leetcode.com/problems/print-binary-tree/
 # Random
 https://leetcode.com/problems/unique-binary-search-trees/
 
 https://leetcode.com/problems/unique-binary-search-trees-ii/
+
+https://leetcode.com/problems/balanced-binary-tree/
